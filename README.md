@@ -22,8 +22,8 @@ Perform edge detection using Canny edge detector
 ## Step8:
 Display original and processed images
 ## Program:
-## DEVELOPED BY: Arikatla Hari Veera Prasad
-## REGISTER NUMBER:212223240014
+## DEVELOPED BY: GOUTHAM.K
+## REGISTER NUMBER:212223110019
 ```
 import cv2
 import numpy as np
